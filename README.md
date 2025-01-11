@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Duc Pham (Buzlc) 
-<h3 align="left">My full name is Pham Ba Duc. I am a student in the Faculty of Business Information Technology at the University of Economics Ho Chi Minh City, and I am continuously learning to become a Unity Developer.</h3>
+<h3 align="left">My full name is Pham Ba Duc. I am a student in the Faculty of Business Information Technology at the University of Economics Ho Chi Minh City and am continuously learning to become a Unity Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
